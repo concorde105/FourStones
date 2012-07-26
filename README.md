@@ -17,7 +17,7 @@ A period represents an empty space that a letter can be moved to, provided anoth
 
 When the game begins, it asks you if you want to play single player or multiplayer kind of like this:
 
-Welcome to (Game Name)!
+Welcome to Four Stones!
 
 [S]ingle player
 
